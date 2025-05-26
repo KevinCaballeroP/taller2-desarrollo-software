@@ -2,8 +2,8 @@
   "name": "platzi-intro-react-base",
   "version": "0.1.0",
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "^16.7",
+    "react-dom": "^16.7",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://KevinCballeroP.github.io/curso-react-intro",
+  "homepage": "https://KevinCballeroP.github.io/taller2-desarrollo-software",
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }
