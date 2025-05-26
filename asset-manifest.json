@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/curso-react-intro/static/css/main.1e692372.css",
-    "main.js": "/curso-react-intro/static/js/main.898ef94c.js",
-    "index.html": "/curso-react-intro/index.html",
-    "static/media/delete.svg": "/curso-react-intro/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
-    "static/media/check.svg": "/curso-react-intro/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.1e692372.css.map": "/curso-react-intro/static/css/main.1e692372.css.map",
-    "main.898ef94c.js.map": "/curso-react-intro/static/js/main.898ef94c.js.map"
+    "main.css": "/taller2-desarrollo-software/static/css/main.575fd461.css",
+    "main.js": "/taller2-desarrollo-software/static/js/main.ab8f6781.js",
+    "index.html": "/taller2-desarrollo-software/index.html",
+    "static/media/delete.svg": "/taller2-desarrollo-software/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/taller2-desarrollo-software/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.575fd461.css.map": "/taller2-desarrollo-software/static/css/main.575fd461.css.map",
+    "main.ab8f6781.js.map": "/taller2-desarrollo-software/static/js/main.ab8f6781.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e692372.css",
-    "static/js/main.898ef94c.js"
+    "static/css/main.575fd461.css",
+    "static/js/main.ab8f6781.js"
   ]
 }
